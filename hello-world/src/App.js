@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello world! First change on git
+          git commit
         </p>
         <a
           className="App-link"
